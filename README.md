@@ -88,3 +88,10 @@ export default function ItsME() {
 - <img src="https://github.com/impooya/impooya/blob/main/icons8-instagram-94.png?raw=true" alt="instagram" width="30" height="30" /> **Instagram:** [@impooya._smr](https://www.instagram.com/impooya._smr)
 - <img src="https://github.com/impooya/impooya/blob/main/icons8-gmail-94.png?raw=true" alt="mail" width="30" height="30" /> **Gmail:** [samarkarpooya@gmail.com](mailto:samarkarpooya@gmail.com)
 
+---
+
+<footer>
+    <p><a target="_blank" href="https://icons8.com/icon/CF7vUDjjX8tF/whistling-builder"></a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></p>
+</footer>
+
+
