@@ -2,6 +2,10 @@
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"></img>
+<br/>
+<br/>
+
+> **Note:** 📘 I'm currently deeply focused on learning, which places me at a developing proficiency as I continue to grow my skills.
 
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Unicorn.webp" alt="Unicorn" width="30" height="30" />
 
@@ -41,29 +45,15 @@
 
 
 
-> **Note:** 📘 I'm currently deeply focused on learning, which places me at a developing proficiency as I continue to grow my skills.
-<br/>
-<br/>
-<br/>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=impooya&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=impooya)](https://github.com/impooya/github-readme-stats)
 
+<br/>
+<br/>
 
 
+## Contact Me 📬
 
+- 📱 **Telegram:** [@Poya_Smr](https://t.me/Poya_Smr)
+- 📸 **Instagram:** [@impooya._smr](https://www.instagram.com/impooya._smr)
+- ✉️ **Gmail:** [samarkarpooya@gmail.com](mailto:samarkarpooya@gmail.com)
 
-
-<!--
-**impooya/impooya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
