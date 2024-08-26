@@ -53,7 +53,7 @@
 
 ## Contact Me 📬
 
-- 📱 **Telegram:** [@Poya_Smr](https://t.me/Poya_Smr)
+- <img src="https://github.com/impooya/impooya/blob/main/icons8-telegram-logo-94.png?raw=true" alt="telegram" width="30" height="30" />  **Telegram:** [@Poya_Smr](https://t.me/Poya_Smr)
 - 📸 **Instagram:** [@impooya._smr](https://www.instagram.com/impooya._smr)
 - ✉️ **Gmail:** [samarkarpooya@gmail.com](mailto:samarkarpooya@gmail.com)
 
