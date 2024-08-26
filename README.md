@@ -4,6 +4,37 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"></img>
 <br/>
 <br/>
+```jsx
+import FirstName from "./AboutMe";
+import LastName from "./AboutMe";
+import Skill from "/.AboutMe"
+
+export default function ItsME() {
+  return (
+    <>
+      <FirstName>
+        Pooya
+      </FirstName>
+      <LastName>
+        Samarkar
+      </LastName>
+      <Skill>
+        React
+        TailWind
+        ReactRouter
+        Redux
+        JavaScript
+        TypeScript
+        Css
+        Html
+        MUI
+      </Skill>
+    </>
+  );
+}
+```
+
+<Br/>
 
 > **Note:** 📘 I'm currently deeply focused on learning, which places me at a developing proficiency as I continue to grow my skills.
 
@@ -18,7 +49,7 @@
 <br/>
 <br/>
 
-## Technology Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="30" height="30" />
+## Technology Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" />
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="90" height="90" alt="Javascript" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="90" height="90" alt="HTML5" /></a>
@@ -51,9 +82,9 @@
 <br/>
 
 
-## Contact Me 📬
+## Contact Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Light%20Skin%20Tone.png" alt="Call Me Hand Light Skin Tone" width="30" height="30" />
 
 - <img src="https://github.com/impooya/impooya/blob/main/icons8-telegram-logo-94.png?raw=true" alt="telegram" width="30" height="30" />  **Telegram:** [@Poya_Smr](https://t.me/Poya_Smr)
-- 📸 **Instagram:** [@impooya._smr](https://www.instagram.com/impooya._smr)
-- ✉️ **Gmail:** [samarkarpooya@gmail.com](mailto:samarkarpooya@gmail.com)
+- <img src="https://github.com/impooya/impooya/blob/main/icons8-instagram-94.png?raw=true" alt="instagram" width="30" height="30" /> **Instagram:** [@impooya._smr](https://www.instagram.com/impooya._smr)
+- <img src="https://github.com/impooya/impooya/blob/main/icons8-gmail-94.png?raw=true" alt="mail" width="30" height="30" /> **Gmail:** [samarkarpooya@gmail.com](mailto:samarkarpooya@gmail.com)
 
