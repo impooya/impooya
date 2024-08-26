@@ -85,7 +85,7 @@ export default function ItsME() {
 ## Contact Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Light%20Skin%20Tone.png" alt="Call Me Hand Light Skin Tone" width="30" height="30" />
 
 - <img src="https://github.com/impooya/impooya/blob/main/icons8-telegram-logo-94.png?raw=true" alt="telegram" width="30" height="30" />  **Telegram:** [@Poya_Smr](https://t.me/Poya_Smr)
-- <img src="https://github.com/impooya/impooya/blob/main/icons8-instagram-94.png?raw=true" alt="instagram" width="30" height="30" /> **Instagram:** [@impooya._smr](https://www.instagram.com/impooya._smr)
+- <img src="https://github.com/impooya/impooya/blob/main/icons8-instagram-94.png?raw=true" alt="instagram" width="30" height="30" /> **Instagram:** [@impooya_.smr](https://www.instagram.com/impooya._smr)
 - <img src="https://github.com/impooya/impooya/blob/main/icons8-gmail-94.png?raw=true" alt="mail" width="30" height="30" /> **Gmail:** [samarkarpooya@gmail.com](mailto:samarkarpooya@gmail.com)
 
 ---
