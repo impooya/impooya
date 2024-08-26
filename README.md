@@ -42,6 +42,11 @@
 
 
 > **Note:** 📘 I'm currently deeply focused on learning, which places me at a developing proficiency as I continue to grow my skills.
+<br/>
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=impooya&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=impooya)](https://github.com/impooya/github-readme-stats)
 
 
 
