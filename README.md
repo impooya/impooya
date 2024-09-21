@@ -1,9 +1,5 @@
 # Hi, I'm Pouya, a Front-End Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="30" height="30" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="30" height="30" />
 
-
-
-<br/>
-<br/>
 ```jsx
 import FirstName from "./AboutMe";
 import LastName from "./AboutMe";
