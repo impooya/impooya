@@ -32,18 +32,7 @@ export default function ItsME() {
 
 <Br/>
 
-> **Note:** 📘 I'm currently deeply focused on learning, which places me at a developing proficiency as I continue to grow my skills.
 
-## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Unicorn.webp" alt="Unicorn" width="30" height="30" />
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" /> I'm currently a Mathematics student with a deep passion for coding. My journey into the world of front-end development began about two years ago when I started programming with Python. After exploring various fields, I discovered the exciting world of web development and decided to dive in. 
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="30" height="30" /> I began by learning JavaScript, along with HTML and CSS, which laid the foundation for my front-end skills. As I progressed, I picked up modern frameworks like React and Vue.js, as well as Tailwind CSS to enhance my design capabilities.
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> I'm constantly expanding my knowledge and skills, always eager to learn more about the latest technologies in the front-end world.
-
-<br/>
-<br/>
 
 ## Technology Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" />
 <p align="center">
@@ -62,14 +51,7 @@ export default function ItsME() {
 <br/>
 
 
-## Skills I'm Currently Working On and Learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="30" height="30" /> **State Management and api configs:** Exploring tools like Redux and other state management libraries to enhance application scalability.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="30" height="30" /> **Next.js:** Diving into Next.js and other essential frameworks to build more efficient and robust web applications.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="30" height="30" /> **Research & Experimentation:** Continuously researching and experimenting with new technologies to stay up-to-date with industry trends.
-
-<br/>
-<br/>
 
 
 
