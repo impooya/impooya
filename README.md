@@ -1,9 +1,4 @@
-# Hi, I'm Pouya, a Front-End Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="30" height="30" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="30" height="30" />
-
-
-<Br/>
-
-
+# Hi, I'm Pouya, a Front-End Developer 
 
 ## Technology Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" />
 <p align="center">
@@ -21,8 +16,7 @@
 
 
 
-## Contact Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Light%20Skin%20Tone.png" alt="Call Me Hand Light Skin Tone" width="30" height="30" />
-
+## Contact Me
 
 - <img src="https://github.com/impooya/impooya/blob/main/icons8-gmail-94.png?raw=true" alt="mail" width="30" height="30" /> **Gmail:** [samarkarpooya@gmail.com](mailto:samarkarpooya@gmail.com)
 
